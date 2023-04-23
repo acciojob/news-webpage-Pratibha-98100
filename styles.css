@@ -14,4 +14,10 @@ nav{
 	padding: 1px;
 }
 
+.div1,.div2,.div3{
+	background-color:white;
+}
 
+.div{
+	display:flex;
+}
