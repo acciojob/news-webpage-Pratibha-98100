@@ -21,7 +21,7 @@ nav{
 	margin:5px;
 }
 
-.div{
+main{
 	display:flex;
 	justify-content: space-evenly;
 }
