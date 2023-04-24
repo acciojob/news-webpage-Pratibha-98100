@@ -16,18 +16,27 @@ nav{
 	padding: 1px;
 }
 
-.div1,.div2,.div3{
+.main-article-section,.latest-news-section,.pictorial-news-section{
 	background-color:white;
 	text-align:center;
 	border-radius:10px;
 	margin:5px;
 }
 
-main{
+.sections{
 	display:flex;
 	justify-content: space-evenly;
 }
 
-.div1{
+.latest-news-section{
+	height:250px;
+
+}
+
+.main-article-section{
+	height:200px;
+}
+
+.sections{
 	height:20%px;
 }
